@@ -1,0 +1,49 @@
+.card-basket {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+
+    &__img-wrapper {
+        display: flex;
+        justify-content: center;
+        margin-right: 98px;
+        width: 122px;
+        height: 122px;
+    }
+
+    &__title {
+        width: 36%;
+        font-size: 17px;
+       font-weight: 500; 
+       line-height: 20.72px;
+       color: #FFFFFF;
+    }
+
+    &__order {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        margin-right: 5px;
+    }
+
+    &__price {
+        margin-right: 15px;
+        font-size: 17px;
+        font-weight: 500; 
+        line-height: 20.72px;
+        color: #FFFFFF;
+    }
+
+    &__btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 1px;
+        width: 30px;
+        height: 30px;
+        border: 1px solid #D58C51;
+        background: transparent;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,13 @@
+.sum-header {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 25px;
+}
+.sum-header__amount {
+  margin-right: 20px;
+  text-align: end;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 20.72px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=SumHeader.css.map */

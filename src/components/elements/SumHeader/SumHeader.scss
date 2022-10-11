@@ -1,0 +1,16 @@
+.sum-header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 25px;
+    
+
+    &__amount {
+        margin-right: 20px;
+        text-align: end;
+        font-size: 17px;
+        font-weight: 500; 
+        line-height: 20.72px;
+        color: #FFFFFF;
+    }
+
+}
